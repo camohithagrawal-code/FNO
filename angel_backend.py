@@ -1,6 +1,6 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-from smartapi import SmartConnect
+from SmartApi import SmartConnect
 import pyotp
 import os
 
